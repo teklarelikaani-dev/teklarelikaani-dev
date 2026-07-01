@@ -15,7 +15,7 @@ Olen alustav andmeanalüütik, kellel on kaubandusökonoomika BA  ning pikaajali
 
 #### Projektid
 
-11-nädalane praktiline andmeanalüüsi portfoolio UrbanStyle e-kaubanduse andmetel - [**DACA Portfoolio**](https://github.com/teklarelikaani-dev/daca-portfolio)
+11-nädalane praktiline andmeanalüüsi portfoolio UrbanStyle kaubandusettevõtte andmetel - [**DACA Portfoolio**](https://github.com/teklarelikaani-dev/daca-portfolio)
 
 #### Mind huvitavad
 - Data Analytics
