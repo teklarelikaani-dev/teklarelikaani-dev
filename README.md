@@ -7,29 +7,37 @@ Olen alustav andmeanalüütik, kellel on kaubandusökonoomika BA  ning pikaajali
 ##### Praegu õpin Data Analyst Career Accelerator (DACA) programmis, kus ehitan praktiliste projektide kaudu oma andmeanalüütiku portfooliot.
 
 #### Oskused 🛠️
-- **Andmebaasid:** PostgreSQL, Supabase
-- **Programmeerimiskeeled:** Python (pandas, plotly)
-- **Visualiseerimine:** Power BI, dashboardid, Data storytelling
-- **Tööriistad:** Git, GitHub, VS Code
+- **Andmebaasid:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- **Programmeerimiskeeled:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Visualiseerimine:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) Dashboardid, Data storytelling
+- **Tööriistad:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
-#### Projektid
+### Projektid
 
 11-nädalane praktiline andmeanalüüsi portfoolio UrbanStyle kaubandusettevõtte andmetel - [**DACA Portfoolio**](https://github.com/teklarelikaani-dev/daca-portfolio)
 
+#### Projekt sisaldab:
+
+✔️ SQL analüüs
+
+✔️ Python pipeline
+
+✔️ Interaktiivsed Power BI dashboard-id
+
+✔️ RFM analüüs
+
+✔️ Ärilised soovitused
+
+
 #### Mind huvitavad
-- Data Analytics
-- Business Intelligence
-- Retail Analytics
-- Customer Analytics
- 
+
+- 📊 Data Analytics
+- 🛒 Retail Analytics
+- 📈 Business Intelligence
+- 👥 Customer Analytics
+
  
 ## 📫 Kontakt
  
 - **Email:** teklarelikaani@gmail.com
-
- 
----
- 
-_"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard_
 
