@@ -20,7 +20,7 @@ Olen alustav andmeanalüütik, kellel on kaubandusökonoomika BA  ning pikaajali
 
 ✔️ [**SQL aggregation**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/7b0380a5c2450343626a4ae1955b176d2acfed6b/SQL%20Aggregation.md)
 
-✔️ Python pipeline
+✔️ [**Python pipeline**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/f85716dde9191dacb7159a812fc6c2f003364344/8%20Python%20APIs%20%26%20Automation.md)
 
 ✔️ Interaktiivsed Power BI dashboard-id
 
