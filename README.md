@@ -22,9 +22,9 @@ Olen alustav andmeanalüütik, kellel on kaubandusökonoomika BA  ning pikaajali
 
 ✔️ [**Python pipeline**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/f85716dde9191dacb7159a812fc6c2f003364344/8%20Python%20APIs%20%26%20Automation.md)
 
-✔️ Interaktiivsed Power BI dashboard-id
+✔️ [**Interaktiivsed Power BI dashboard-id**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/c48143b4a07ebd7386ae5df4592ef9659acd2f0a/6%20Power%20BI%20Data%20Storytelling%20Dashboard.md)
 
-✔️ RFM analüüs
+✔️ [**RFM analüüs**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/e4a481b42438b4b4f602fa4ececa311422b263b7/7%20Python%20RFM%20anal%C3%BC%C3%BCs.md)
 
 ✔️ Ärilised soovitused
 
