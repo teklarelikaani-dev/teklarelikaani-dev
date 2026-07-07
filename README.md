@@ -14,17 +14,17 @@ Olen alustav andmeanalüütik, kellel on kaubandusökonoomika BA  ning pikaajali
 
 ### Projektid
 
-11-nädalane praktiline andmeanalüüsi portfoolio UrbanStyle kaubandusettevõtte andmetel - [**DACA Portfoolio**](https://github.com/teklarelikaani-dev/daca-portfolio)
+11-nädalane praktiline andmeanalüüsi portfoolio UrbanStyle kaubandusettevõtte andmetel - [**DACA Portfoolio**](https://github.com/teklarelikaani-dev/daca-portfolio/tree/main)
 
 #### Projekt sisaldab lisaks muule ka:
 
-✔️ [**SQL aggregation**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/7b0380a5c2450343626a4ae1955b176d2acfed6b/SQL%20Aggregation.md)
+✔️ [**SQL aggregation**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/671d471828a26044323cb44636f818b07ad58100/4%20SQL%20Aggregation.md)
 
-✔️ [**Python pipeline**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/f85716dde9191dacb7159a812fc6c2f003364344/8%20Python%20APIs%20%26%20Automation.md)
+✔️ [**Python pipeline**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/671d471828a26044323cb44636f818b07ad58100/8%20Python%20APIs%20%26%20Automation.md)
 
-✔️ [**Interaktiivsed Power BI dashboard-id**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/c48143b4a07ebd7386ae5df4592ef9659acd2f0a/6%20Power%20BI%20Data%20Storytelling%20Dashboard.md)
+✔️ [**Interaktiivsed Power BI dashboard-id**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/671d471828a26044323cb44636f818b07ad58100/6%20Power%20BI%20Data%20Storytelling%20Dashboard.md)
 
-✔️ [**RFM analüüs**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/e4a481b42438b4b4f602fa4ececa311422b263b7/7%20Python%20RFM%20anal%C3%BC%C3%BCs.md)
+✔️ [**RFM analüüs**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/671d471828a26044323cb44636f818b07ad58100/7%20Python%20RFM%20anal%C3%BC%C3%BCs.md)
 
 ✔️ Ärilised soovitused
 
