@@ -16,7 +16,7 @@ Olen alustav andmeanalüütik, kellel on kaubandusökonoomika BA  ning pikaajali
 
 11-nädalane praktiline andmeanalüüsi portfoolio UrbanStyle kaubandusettevõtte andmetel - [**DACA Portfoolio**](https://github.com/teklarelikaani-dev/daca-portfolio/tree/main)
 
-#### Projekt sisaldab lisaks muule ka:
+#### Projekt sisaldab muu hulgas ka:
 
 ✔️ [**SQL aggregation**](https://github.com/teklarelikaani-dev/daca-portfolio/blob/671d471828a26044323cb44636f818b07ad58100/4%20SQL%20Aggregation.md)
 
